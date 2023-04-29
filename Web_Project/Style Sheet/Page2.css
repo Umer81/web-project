@@ -1,0 +1,131 @@
+
+.bg-light {
+    background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.dropdown-menu{
+	
+	 background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+	
+}
+
+.c{
+	
+	
+	
+	background-image: url("../Pictures/Page2/pexels-maria-orlova-4946961.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;   
+	
+}
+
+.container1{
+		
+		
+		height:auto;
+		
+		
+		
+	}
+
+.fab{
+		
+		
+		font-size: 30px;
+		
+		
+	}
+
+.navbar{
+		
+		z-index: 1;
+		border-radius: 40px;
+		position: sticky;
+	    top:0px;
+		
+	}
+
+.footer1{
+		
+		margin-top: 70px;
+		
+		height:auto;
+		background-image:url("../Pictures/Page1/nordwood-themes-nDd3dIkkOLo-unsplash.jpg");
+		background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+		border-radius: 9px;
+		
+		
+	}
+
+.main1{
+	
+	
+	height:auto;
+	margin-top: 50px;
+	color:white;
+	background:  linear-gradient(rgba(0, 0,0, 0.65),rgba(0,0,0,0.65));
+	
+	border-radius: 10px;
+}
+
+.main2{
+	
+	
+	height:auto;
+	margin-top: 50px;
+	color:white;
+	background:  linear-gradient(rgba(0, 0,0, 0.65),rgba(0,0,0,0.65));
+	
+	border-radius: 10px;
+}
+
+.main3{
+	
+	
+	height:auto;
+	margin-top: 50px;
+	color:white;
+	background:  linear-gradient(rgba(0, 0,0, 0.65),rgba(0,0,0,0.65));
+	
+	border-radius: 10px;
+}
+.vid1{
+	
+	display:inline-block;
+	
+	margin-top: 30px;
+	
+	border-radius: 10px;
+}
+
+.vid2{
+	
+	display:inline-block;
+	
+	margin-top: 30px;
+	
+	border-radius: 10px;
+}
+
+.vid3{
+	
+	display:inline-block;
+	
+	margin-top: 30px;
+	
+	border-radius: 10px;
+	
+}
+
+

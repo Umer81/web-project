@@ -1,0 +1,165 @@
+
+
+.bg-light {
+    background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+	
+
+.dropdown-menu{
+	
+	 background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+	
+}
+
+
+
+.c{
+	
+	
+	
+	background-image: linear-gradient(rgba(0, 0,0, 0.2),rgba(0,0,0,0.2)),url("../Pictures/Page1/shifaaz-shamoon-okVXy9tG3KY-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+
+
+
+
+
+
+
+	.container1{
+		
+	/*	border:5px solid green; */
+		height:auto;
+		
+		
+		
+	}
+	
+
+   
+	
+	.slider1{
+		
+	/*	border:5px solid black; */
+		height:auto;
+		width:auto;
+		
+		
+		
+	}
+	
+	.fab{
+		
+		
+		font-size: 30px;
+		
+		
+	}
+	
+	
+	
+
+	
+	.navbar{
+		
+		z-index: 3;
+		border-radius: 40px;
+		position: sticky;
+		top:0px;
+		
+	}
+	
+
+	.footer1{
+		
+		margin-top: 70px;
+	/*	border:3px solid pink; */
+		height:auto;
+		background-image:url("../Pictures/Page1/nordwood-themes-nDd3dIkkOLo-unsplash.jpg");
+		background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+		border-radius: 9px;
+		
+		
+	}
+	
+	
+	
+	.intro{
+		
+	/*	border:3px solid #70CF4E; */
+		height:auto;
+		padding-top: 25px;
+		
+		
+	}
+	
+	
+	.AboutUS{
+		                                   /**kia haa ha **/
+		height:450px;
+	/*	border: 3px dotted brown;  */
+		padding:40px;
+		background-image:linear-gradient(rgba(0, 0,0, 0.4),rgba(0,0,0,0.4)),url("../Pictures/Page1/veeterzy-sMQiL_2v4vs-unsplash.jpg");
+		background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+		border-radius: 0px 270px;
+		margin-top: 50px;
+		margin-bottom: 20px;
+		
+		
+	}
+
+
+     
+.ani{
+	
+	height:100px;
+	width:100px;
+	line-height: 85px;
+	position: sticky;
+    top: 110px ;
+	
+	
+	
+	border-radius: 2px solid black;
+	animation-name: ani1;
+	animation-duration: 1.5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	z-index: 1;
+	
+}
+
+
+
+
+
+@keyframes ani1{
+	
+	0%{border-radius: 25%;background-color: green;color:black;}
+	
+	50%{border-radius: 50%;background-color: yellow;color: black;}
+	
+	100%{border-radius: 100%;background-color: purple;color: white;}
+	
+}
+
+
+
+	

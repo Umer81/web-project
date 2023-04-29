@@ -1,0 +1,177 @@
+
+
+.bg-light {
+    background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+	
+
+.dropdown-menu{
+	
+	 background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+	
+}
+
+
+
+.c{
+	
+	
+	
+	background-image:url("../Pictures/Page5/pexels-anna-tarazevich-6711867.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+
+
+
+
+
+
+
+	.container1{
+		
+		
+		height:auto;
+		
+		
+		
+	}
+	
+
+   
+	
+
+	
+	.fab{
+		
+		
+		font-size: 30px;
+		
+		
+	}
+	
+	
+	
+
+	
+	.navbar{
+		
+		z-index: 3;
+		border-radius: 40px;
+		position: sticky;
+		top:0px;
+		
+	}
+	
+
+	.footer1{
+		
+		margin-top: 300px;
+		
+		height:auto;
+		background-image:url("../Pictures/Page1/nordwood-themes-nDd3dIkkOLo-unsplash.jpg");
+		background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+		border-radius: 9px;
+		
+		
+	}
+	
+
+
+/*
+
+
+*{
+    background-color: rgb(33, 33, 61);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+*/
+h1{
+    text-align: center;
+    color: white;
+ 
+}
+h4{
+    text-align: center;
+    color: white
+}
+.label{
+    color: white;
+    padding-left: 10px;
+    font-size:20px;
+ 
+}
+.form{
+    margin-left: 25%;
+    width: 50%;
+}
+.input{
+    padding: 0px;
+    border-radius:10px;
+    font-size: 18px;
+    width: 100%;
+    height: 50px;
+    color: black;
+    border-color:white;
+   
+}
+.message{
+    font-size: 18px;
+    border-radius:10px;
+    width: 100%;
+    height: 150px;
+    border-color:white;
+    
+    color: black;
+  
+}
+.button{
+	/*
+   margin-left: 25%;  */
+    border-radius:10px;
+    width: 60%;
+    height: 50px;
+    font-size: 18px;
+    border-color:white;
+    color: white;
+    background-color: blue;
+    
+}
+.placeholder{
+    color: black;
+    font-size: 18px;
+  
+}
+
+
+
+.form1{
+	
+	
+	background:  linear-gradient(rgba(0, 0,0, 0.6),rgba(0,0,0,0.6));
+	border-radius: 30px;
+	
+	
+}
+
+
+
+
+
+
+
+	

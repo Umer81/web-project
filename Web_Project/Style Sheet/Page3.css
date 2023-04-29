@@ -1,0 +1,184 @@
+
+
+
+.bg-light {
+    background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.dropdown-menu{
+	
+	 background-image: url("../Pictures/Page1/shapelined-_JBKdviweXI-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+	
+}
+
+.c{
+	
+	
+	
+	background-image: linear-gradient(rgba(0, 0,0, 0.8),rgba(0,0,0,0.8)),url("../Pictures/Page3/haidan-bVuE49x-Fxw-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;   
+	
+}
+
+.container1{
+		
+		
+		height:auto;
+		
+		
+		
+	}
+
+.fab{
+		
+		
+		font-size: 30px;
+		
+		
+	}
+
+.navbar{
+		
+		z-index: 1;
+		border-radius: 40px;
+	   position: sticky;
+	   top:0px;
+		
+		
+	}
+
+.footer1{
+		
+		margin-top: 70px;
+	/*	border:3px solid pink; */ 
+		height:auto;
+		background-image:url("../Pictures/Page1/nordwood-themes-nDd3dIkkOLo-unsplash.jpg");
+		background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+		border-radius: 9px;
+		
+		
+	}
+
+.main1{
+	
+	
+	height:auto;
+	
+	
+	
+}
+
+.main2{
+	
+	margin-top: 40px;
+	
+	height:auto;
+	background:  linear-gradient(rgba(0, 0,0, 0.7),rgba(0,0,0,0.7));
+	
+	
+}
+
+.aud{
+	
+	
+	margin-top: 20px;
+	
+	
+}
+
+
+.map1{
+	
+	
+	
+	display: inline-block;
+	margin-top: 50px;
+	
+}
+
+.map2{
+	
+	
+	
+	display: inline-block;
+	margin-top: 50px;
+	
+	
+}
+
+.vid2{
+	
+	display: inline-block;
+	margin-top: 50px;
+	
+}
+
+.vid1{
+	
+	display: inline-block;
+	margin-top: 50px;
+	
+}
+
+.head1{
+	
+	
+	border-radius: 20px;
+	background-color: aqua;
+	display: inline-block;
+	
+	
+	animation-name: ani1;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-direction:normal;
+	
+	
+	
+}
+
+@keyframes ani1{
+	
+	0%{background-color: green;color:black;}
+	
+	50%{background-color: red;color: black;}
+	
+	100%{;background-color: purple;color: white;}
+	
+}
+
+
+.title1{
+	
+	
+	border-radius: 5px;
+	background-color: black;
+	display: inline-block;
+	margin-bottom: 40px;
+	
+
+}
+
+
+
+
+.main3{
+	
+	margin-top: 40px;
+	
+	height:auto;
+	
+	background:  linear-gradient(rgba(0, 0,0, 0.7),rgba(0,0,0,0.7));
+}
